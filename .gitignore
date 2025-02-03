@@ -1,3 +1,7 @@
 .ipynb_checkpoints
 llm_cache
 .env
+/**/*.pdf
+/**/*__pycache_*
+storage
+data
